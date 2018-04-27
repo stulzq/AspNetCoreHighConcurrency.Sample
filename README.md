@@ -4,5 +4,5 @@ AspNetCore High Concurrency Simple Code.Describes how to use distributed locking
 ## Divided into three examples
 
 - 1.Distributed lock base on redis
-- 2.Redis-based atomic operations
-- 3.Redis-based atomic operations & Kafka
+- 2.Redis-based atomic operations use lua script
+- 3.Redis-based atomic operations use lua script & Kafka
