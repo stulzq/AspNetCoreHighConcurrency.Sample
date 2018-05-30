@@ -1,5 +1,5 @@
-# AspNetCoreHighConcurrency.Simple
-AspNetCore High Concurrency Simple Code.Describes how to use distributed locking based on redis. Lock-free and queued commodity inventory operations.
+# AspNetCoreHighConcurrency.Sample
+AspNetCore High Concurrency Sample Code.Describes how to use distributed locking based on redis. Lock-free and queued commodity inventory operations.
 
 ## Divided into three examples
 
